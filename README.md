@@ -6,5 +6,14 @@ Running a small radio station from my cave (yes its legal)
 [![Discord Presence](https://lanyard.cnrad.dev/api/874037444884963389?idleMessage=Running%20A%20Radio%20Station%21~)](https://discord.com/users/874037444884963389)
 
 
+# Pi-Radio Setup
+### Please ignore my really ugly desk, I'm planning on getting a new one
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Y4bkzlM"  ><a href="//imgur.com/a/Y4bkzlM">dumb pi radio setup. cost me $10 (excl. pi)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+#### The Pi I use (4GB Variant, Acquired in 2021)
+![The Pi](https://i.imgur.com/yeeYNXp.jpg "The Raspberry Pi4B 4GB")
+
+#### The Antenna which is just 2 Male/Female jumper cables (300mm)
+![The Antenna](https://i.imgur.com/9rQyb4D.jpg "The Antenna")
+
+#### The HDMI output of the pi, Monitoring the transmitter and the current song (I use NCS)
+![The Screen](https://i.imgur.com/4R3Uv1d.png "The Pi Screen")
