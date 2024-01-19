@@ -1,7 +1,7 @@
 Hey!
 I'm 9u3, a Python/Lua developer that makes random projects in my spare time.
 
-Currently working on a lua script for a [Figura](https://modrinth.com/mod/figura) avatar; Currently has custom sounds, Chat Commands, and texture switching.
+Playing osu! now [lycan](https://osu.ppy.sh/users/35197261). Not the best but just learning the basics <3
 
 <a href="https://discord.com/users/874037444884963389">
   <div>My Discord profile</div>
