@@ -1,8 +1,42 @@
-Hey!
-I'm 9u3, a Python/Lua developer that makes random projects in my spare time.
+<div align="center">
 
-<a href="https://discord.com/users/874037444884963389">
-  <div>My Discord profile</div>
-  <br>
-  <img alt="" src="https://lanyard.cnrad.dev/api/874037444884963389?bg=003f7f&idleMessage=Probably%20should%20be%20more%20productive...&hideStatus=true">
-</a>
+# Hey, I'm Sierra
+
+**Developer** · Python / Lua / C# / Rust
+
+I build tools, game scripts, and desktop apps — usually to solve a problem I ran into myself.
+
+[![GitHub](https://img.shields.io/badge/GitHub-9u3-181717?style=flat&logo=github)](https://github.com/9u3)
+
+</div>
+
+---
+
+### What I work on
+
+- **Desktop apps** — native tools with [Tauri](https://tauri.app) + Rust backends
+- **Game development** — Roblox (Luau), Unity (C#), mapping for rhythm games
+- **Reverse engineering** — HID protocols, WASM modules, game internals
+- **Automation & tooling** — Discord integrations, scrapers, CLI utilities
+
+### Featured projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [**pwnage-hub**](https://github.com/9u3/pwnage-hub) | Standalone desktop app for configuring Pwnage mice over HID | JS / Rust |
+| [**DiscordRPCLinker**](https://github.com/9u3/DiscordRPCLinker) | Xbox 360 plugin that shows your current game as a Discord status | C |
+| [**ssmaps**](https://github.com/9u3/ssmaps) | Custom maps for Rhythia / Sound Space | - |
+| [**scripthub**](https://github.com/9u3/scripthub) | Collection of Lua scripts | Lua |
+
+### Tech
+
+```
+Languages    Python · Lua · C# · C · Rust · JavaScript
+Frameworks   Tauri · Unity · Roblox (Luau)
+Tools        Git · GitHub Actions · ROCm · HID/USB
+OS           Windows · Linux
+```
+
+---
+
+<sub>I make things when I'm curious about how they work.</sub>
